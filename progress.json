@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T17:41:06.235Z",
+  "generated_at": "2026-11-25T20:59:07.273Z",
   "items": {
     "problem:2": {
       "kind": "problem",
@@ -176,6 +176,19 @@
       "path": "math/0010-matrix-multiplication",
       "first_solved_at": "2026-11-24T17:41:05.338Z",
       "last_pushed_at": "2026-11-24T17:41:05.338Z"
+    },
+    "problem:29": {
+      "kind": "problem",
+      "id": "29",
+      "title": "Random Shuffle of Dataset",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/29",
+      "path": "problems/0029-random-shuffle-of-dataset",
+      "first_solved_at": "2026-11-25T20:59:06.523Z",
+      "last_pushed_at": "2026-11-25T20:59:06.523Z",
+      "language": "python",
+      "lines": 12
     }
   }
 }
